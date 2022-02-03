@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857970857133",
+    "project_id": "chittoo-test",
+    "storage_bucket": "chittoo-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857970857133:android:5fc4ce338ec6c3ff592224",
+        "android_client_info": {
+          "package_name": "com.interview.chittoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857970857133-b5cqmnin96tc96565uloq4h0rlb3j6oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQfLSxl2fzb4BYnfThha5KzKGcCC39YSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857970857133-b5cqmnin96tc96565uloq4h0rlb3j6oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

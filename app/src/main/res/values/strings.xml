@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chittoo test</string>
+    <string name="maintenance">Under maintenance</string>
+    <string name="tellme">Tell me about yourself?</string>
+    <string name="timeup">Time up!</string>
+    <string name="submit">Submit</string>
+    <string name="hint">Type here..</string>
+    <string name="win_certificate">Win certificate</string>
+    <string name="log_off">Log off</string>
+    <string name="login">Sign in</string>
+    <string name="request_login">Please sign-in to use the app</string>
+    <string name="timerText">Seconds remaining: %1$d</string>
+</resources>
